@@ -1,1 +1,1 @@
-.
+{"title":"کاربر گرامی ","message":"سرور ها به صورت روزانه اپدیت خاهد شد جهت حمایت در کانال تلگرام ما عضو شوید ❤️⚡️","dismissable":false,"dismissTxt":"رد","okTxt":"عضویت در تلگرام","okUrl":"tg://resolve?domain=Vpn_Click","status":"ok"}
