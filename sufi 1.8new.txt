@@ -1,1 +1,1 @@
-{"title":"کاربر گرامی ","message":"از حالت انتخاب خودکار برای اتصال استفاده کنید، سرور ها به صورت روزانه اپدیت میشوند ❤️","dismissable":false,"dismissTxt":"رد","okTxt":"حمایت میکنم","okUrl":"tg://resolve?domain=Vpn_Click","status":"ok"}
+.
