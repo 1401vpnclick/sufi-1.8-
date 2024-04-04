@@ -1,1 +1,1 @@
-{"title":"کاربر گرامی ","message":"در حال حاضر با اختلال مواجه ایم تا ساعاتی دیگر سرور ها رو بروز میکنم لطفا از ما حمایت کنید ❤️ ","dismissable":false,"dismissTxt":"رد","okTxt":"حمایت میکنم","okUrl":"tg://resolve?domain=Vpn_Click","status":"ok"}
+.
